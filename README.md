@@ -1,4 +1,6 @@
 # mySCADA myPRO 7 Hardcoded FTP Username and Password
+# CVE-2018-11311
+
 # I. Background
 myPRO is a professional HMI/SCADA system designed primarily for the visualisation and control of industrial processes. myPRO is effective and innovative solution for any industry that needs to be under non-stop operation. myPRO guarantees reliable supervision, a userfriendly interface and superior security.
 It supports Windows OS (32/64-bit), Mac OS X and Linux (32/64-bit) platforms.
