@@ -1,4 +1,4 @@
-# mySCADA myPRO 7 Hardcoded FTP Username and Password
+# mySCADA myPRO 7 Hardcoded Credentials
 # CVE-2018-11311
 
 # I. Background
