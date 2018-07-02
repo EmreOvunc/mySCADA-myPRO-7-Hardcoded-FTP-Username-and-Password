@@ -1,6 +1,22 @@
 # mySCADA myPRO 7 Hardcoded Credentials
 # CVE-2018-11311
 
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-11311
+
+https://www.exploit-db.com/exploits/44656/
+
+http://myscada.org/wp-content/uploads/downloads/BOXv7/changelog.txt
+
+```
+Changelog v7.0.46
+-----------------
+- fix of possible vulnerability as described here https://vuldb.com/?id.118038
+  - This release disables download of project using FTP protocol. The download is performed over secure SSL channel now. 
+  - You don't have to do anything to activate this, it is done automatically. After the installation restart your system TWICE please. 
+- minor bug fixes - speed optimisation  
+```
+
+
 # I. Background
 myPRO is a professional HMI/SCADA system designed primarily for the visualisation and control of industrial processes. myPRO is effective and innovative solution for any industry that needs to be under non-stop operation. myPRO guarantees reliable supervision, a userfriendly interface and superior security.
 It supports Windows OS (32/64-bit), Mac OS X and Linux (32/64-bit) platforms.
